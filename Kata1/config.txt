@@ -1,0 +1,8 @@
+git commands:
+
+git config --global user.name "full name"
+git config --global user.email "mail@address.com"
+
+git add *
+
+git commit -m "short description"
